@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMPEXA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>IMPEXA</h1>
+               <ul>
+                <li><a href="pag.html">INICIO</a></li>
+                <li><a href="v.html">VIABILIDAD</a></li>
+                <li><a href="an.html">ANALISIS DE SITUACION</a></li>
+                <li><a href="cae.html">CARTAS DE CREDITO</a></li>
+                <li><a href="fil.html">FILTRACION</a></li>
+                <li><a href="es.html">ESTRUCTURACION</a></li>
+                <li><a href="se.html">SEGUIMIENTO</a></li>
+                <li><a href="lo.html">LOGISTICA</a></li>
+                <li><a href="cont.html">CONTACTOS</a></li>
+               </ul>
+        </nav>
+        <div class="contenedor">
+            <h2>La empresa Impexa Logistica Internacional Cia. Ltda. se dedica actividades de agentes de aduanas; emision y tramitacion de documentos de transporte y servicios logísticos, es decir, planificación, diseño y apoyo de operaciones de importacion y exportacion, almacenamiento y distribución.</h2>
+        </div> 
+    </header>
+
+    
+</body>
+</html>
